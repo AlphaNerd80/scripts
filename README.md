@@ -3,7 +3,7 @@ These are miscellaneous and helper scripts that I have written to make my life e
 
 
 
-## clear docker images
+### clear docker images
 This does exactly what it sayd, it simply clears the docker images and layers from my system
 
 ### topwatch
